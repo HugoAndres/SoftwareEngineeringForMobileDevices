@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PlantApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info_p">InfoP</string>
+    <string name="large_text">
+        "Especie:\n\n"
+        "Tipo:\n\n"
+        "Edad:\n\n"
+        "Temporada recomendada:\n\n"
+        "Mazeta o Jardinera:\n\n"
+        "Espacio recomedado:\n\n"
+        "Cuidados:\n\n"
+    </string>
+</resources>
